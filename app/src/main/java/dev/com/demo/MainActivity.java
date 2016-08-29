@@ -1,4 +1,4 @@
-package dev.env.demo;
+package dev.com.demo;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +8,7 @@ import android.view.MenuItem;
 
 public class MainActivity extends AppCompatActivity {
 
+    int i=0;
     int mCount;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
